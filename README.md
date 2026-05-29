@@ -1,2 +1,2 @@
-# pokecollector-iPhone-app-
-pokecollector Iphone app
+# pokecollector iPhone app
+Coming soon...
